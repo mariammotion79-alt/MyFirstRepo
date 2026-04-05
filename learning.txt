@@ -1,0 +1,8 @@
+What I have learned from this course
+
+Through learning Git and using GitHub, I have understood how important version control is in managing projects.
+ I learned how to track changes in my files, which helps me see what I have done over time and fix mistakes easily. 
+Using commands like adding, committing, and pushing files has taught me how to save my progress properly and keep my work organized.
+
+I have also learned how collaboration works in real-world projects. With GitHub, multiple people can work on the same project without confusion by using branches and commits.
+ This experience has improved my technical skills and given me a better understanding of how developers work together to build and manage projects efficiently.
